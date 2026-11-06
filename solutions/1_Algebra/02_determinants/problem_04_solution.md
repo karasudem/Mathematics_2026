@@ -1,4 +1,14 @@
-Exercise 4 – Solution
+## Question
+
+Without expanding the determinant, compute:
+
+A = [ 2   4   1 ]
+[ 0  -3   5 ]
+[ 0   0   7 ]
+
+State the rule for an arbitrary triangular matrix and explain it using this example.
+
+## Solution
 
 Given:
 

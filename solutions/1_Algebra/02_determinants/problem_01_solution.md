@@ -1,4 +1,18 @@
-Exercise 1 – Solution
+## Question
+
+Compute the determinants of the following two matrices:
+
+A = [ 3  -2 ]
+[ 5   4 ]
+
+B = [ 1   7 ]
+[ 2  14 ]
+
+Answer the following question:
+
+Which matrix is invertible? Justify your answer using the relationship between the determinant and invertibility.
+
+## Solution
 
 We need to calculate the determinants of two matrices and determine which matrix is invertible.
 

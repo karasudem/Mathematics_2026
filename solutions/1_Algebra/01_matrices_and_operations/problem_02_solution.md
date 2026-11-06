@@ -1,3 +1,24 @@
+## Question
+
+Given the following matrices:
+
+A = [  1   2 ]
+[ -1   3 ]
+
+B = [ 4  -2 ]
+[ 0   5 ]
+
+Compute:
+
+1. A + B
+2. A - B
+3. 3A - 2B
+
+Explain why matrix addition is possible only for matrices of the same size.
+
+
+## Solution
+
 Exercise 2. Addition and Scalar Multiplication
 
 Given:

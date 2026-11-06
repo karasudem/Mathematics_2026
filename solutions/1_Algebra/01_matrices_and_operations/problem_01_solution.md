@@ -1,3 +1,22 @@
+## Question
+
+Given the following matrices:
+
+A = [  2  -1   3 ]
+[  0   4   5 ]
+
+B = [  1   0 ]
+[ -2   3 ]
+[  4   1 ]
+
+Complete the following tasks:
+
+1. State the sizes (dimensions) of matrices A and B.
+2. Find the entries a12, a23, b21, and b32.
+3. Write the second row of matrix A and the first column of matrix B as vectors.
+
+## Solution
+
 Exercise 1. Matrix Size and Entries
 
 1. Sizes of matrices A and B

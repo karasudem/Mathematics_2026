@@ -1,3 +1,25 @@
+ ## Question
+
+The matrix sizes are:
+
+A: 2 x 3
+
+B: 3 x 4
+
+C: 4 x 2
+
+D: 2 x 2
+
+For the following products:
+
+AB, BA, BC, CB, AC, CA, AD, DA
+
+Determine whether each product is defined. If it is defined, state the size of the resulting matrix.
+
+Justify each decision using the dimension compatibility condition.
+
+ ## Solution
+
 Exercise 3. When Can Matrices Be Multiplied?
 
 Given Matrix Dimensions
