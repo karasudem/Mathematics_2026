@@ -91,4 +91,4 @@ The final result is:
 
     B = A^(-1)
 
-Hence, the given matrix B is indeed the inverse of matrix A.
+Hence, the given matrix B is indeed the inverse of matrix A.#
